@@ -22,7 +22,7 @@ A Python script to track new videos from multiple YouTube channels and log their
   ```
   pip install -r requirements.txt
   ```
-1. Install yt-dlp. You can find the relavent information under:
+3. Install yt-dlp. You can find the relavent information under:
    
     [yt-dlp Installation Guide](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#installation)
 
@@ -40,6 +40,7 @@ A Python script to track new videos from multiple YouTube channels and log their
     - SebastianLague # Add the channels you want to track
     - ...
 ```
+3. Create the csv file you specified in config.cfg
 
 ### Run
 You can run the script directly or wrap it in a small helper script for convenience.
