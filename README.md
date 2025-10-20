@@ -1,6 +1,9 @@
 # Yt-Buddy
 
-A Python script to track new videos from multiple YouTube channels and log their links. The script compares previously stored video IDs with current ones and reports any new uploads.
+Yt-Buddy is a Python script designed to keep track of new YouTube videos from multiple channels.
+It fetches video IDs using yt-dlp, compares them against stored data, and logs new uploads — helping you stay up to date with your favorite creators automatically.
+
+It’s easy to configure, runs on multiple threads for speed, and can be customized through a simple YAML file.
 
 ## Features
 
