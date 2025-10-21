@@ -63,12 +63,3 @@ This allows you to start the program using a simple command:
 ```bash
 yt-buddy
 ```
-
----
-# Development Tasks
-- Add Watchlater Storage
-- Add Parameters via Typer 
-  - Watchlater, Displays data 
-  - Add, Add Link / ID to Watchlater
-  - Rem, Remove Link / ID from Watchlater
-  - FullScan (Default, adds new to Watchlater)
