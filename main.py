@@ -32,6 +32,8 @@ logger.add(
     level="TRACE",
 )
 
+logger.info("YT-Buddy:")
+
 try:
     with open("config.cfg") as f:
         config = yaml.safe_load(f)
